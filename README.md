@@ -1,3 +1,3 @@
 # la_chouette_agence
-https://synaptik-development.github.io/la_chouette_agence/origin/
-https://synaptik-development.github.io/la_chouette_agence/optimize/
+[origine](https://synaptik-development.github.io/la_chouette_agence/origin/)
+[optimisé](https://synaptik-development.github.io/la_chouette_agence/optimize/)
